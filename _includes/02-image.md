@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Photo of me](https://raw.githubusercontent.com/UNIVAC-Coder/UNIVAC-Coder/main/me.png)
